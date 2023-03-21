@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * ptint_alphabet -print all alphbet in lowercase
+ * ptint_alphabet - print all alphbet in lowercase
+ *
+ * Return: Always 0;
  */
 
-void print_alphabet(void)
+void ptint_alphabet(void)
 {
 	char letter;
 
